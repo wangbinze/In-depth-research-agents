@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+examples
+__pycache__/
+**/__pycache__/
+**/output/
+
+node_modules/
+**/node_modules/
